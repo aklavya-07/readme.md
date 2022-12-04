@@ -10,3 +10,4 @@ print("hello, mr" ,Name)
 name=input("what is your name :- ")
 print("hello, mr" ,name)
 
+lklkl
