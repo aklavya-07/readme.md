@@ -9,3 +9,5 @@ if (percentage<=80):
 percentage=(sum/400)*100
 if (percentage<=60):
       print("you are scoring grade A")
+
+          ;jhkl ;asdfl ;lkj asdf l;joujoijj aksdfsd ;ljk asdf ;lkj oiujiojn  
